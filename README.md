@@ -13,7 +13,7 @@
 
 
 ![Reference image how i lunch the Perplexity Web and send quires to them and get the data](images/P4.png)
-![](images/perplexity6.png)
+![Alt](images/perplexity6.png)
 
 
-![Handle the login dialog if showing on the screen press the cross button by using code ](images/perplexity1.png)
+![Handle the login dialog if showing on the screen press the cross button by using code](images/perplexity1.png)
