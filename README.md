@@ -12,11 +12,11 @@
 
 # Reference image how i lunch the Perplexity Web and send quires to them and get the data
 
-![UI Preview](images/P4.png)
+![UI Preview](images/perplexity.png)
 
 ### ******************************************
 
-![Alt text](images/perplexity.png)
+![Alt text](images/perplexity6.png)
 
 ### Handle the login dialog if showing on the screen press the cross button by using code 
 
