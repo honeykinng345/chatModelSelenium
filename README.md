@@ -12,7 +12,7 @@
 
 # Reference image how i lunch the Perplexity Web and send quires to them and get the data
 
-![Alt text](images/P4.png)
+![UI Preview](images/P4.png)
 
 ### ******************************************
 
