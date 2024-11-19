@@ -1,0 +1,94 @@
+2024-09-04 19:50:46.517897: initialize_chrome_drive2024-09-04 19:50:46.518104: initialize_chrome_drive2024-09-04 19:51:33.355890: initialize_chrome_drive2024-09-04 19:51:33.357029: initialize_chrome_drive2024-09-04 20:01:30.944226: initialize_chrome_drive2024-09-04 20:01:30.945388: initialize_chrome_drive2024-09-04 20:01:32.532399: initialize_chrome_driver Exception
+2024-09-04 20:01:32.532399: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:04:09.875057: initialize_chrome_drive2024-09-04 20:04:09.875893: initialize_chrome_drive2024-09-04 20:04:10.897609: initialize_chrome_driver Exception
+2024-09-04 20:04:10.897609: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:04:59.489610: initialize_chrome_drive2024-09-04 20:04:59.490373: initialize_chrome_drive2024-09-04 20:05:00.411258: initialize_chrome_driver Exception
+2024-09-04 20:05:00.411258: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:05:39.418447: initialize_chrome_drive2024-09-04 20:05:39.418641: initialize_chrome_drive2024-09-04 20:05:40.372671: initialize_chrome_driver Exception
+2024-09-04 20:05:40.372671: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:07:06.475810: initialize_chrome_drive2024-09-04 20:07:06.477341: initialize_chrome_drive2024-09-04 20:07:07.071131: initialize_chrome_driver Exception
+2024-09-04 20:07:07.071131: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 108, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:07:49.565833: initialize_chrome_drive2024-09-04 20:07:49.566043: initialize_chrome_drive2024-09-04 20:17:41.328306: initialize_chrome_drive2024-09-04 20:17:41.328935:getExsitUSer() 
+ f<model.User.User object at 0x109d53800>2024-09-04 20:18:12.747874: initialize_chrome_drive2024-09-04 20:18:12.748254:getExsitUSer() 
+ f<model.User.User object at 0x109d53800>2024-09-04 21:34:27.086308: initialize_chrome_drive2024-09-04 21:34:27.087721: initialize_chrome_drive2024-09-04 21:38:13.414196: initialize_chrome_drive2024-09-04 21:38:13.415405: initialize_chrome_drive2024-09-04 21:39:09.883446: initialize_chrome_drive2024-09-04 21:39:09.884284:getExsitUSer() 
+ f<model.User.User object at 0x103f7eb70>2024-09-04 21:41:29.450055: initialize_chrome_drive2024-09-04 21:41:29.451162:getExsitUSer() 
+ f<model.User.User object at 0x104797050>2024-09-04 21:42:48.590280: initialize_chrome_drive2024-09-04 21:42:48.591353:getExsitUSer() 
+ f<model.User.User object at 0x104797050>2024-09-04 21:45:28.316577: initialize_chrome_drive2024-09-04 21:45:28.318491: initialize_chrome_drive2024-09-04 21:47:35.556245: initialize_chrome_drive2024-09-04 21:47:35.557466: initialize_chrome_drive2024-09-04 21:48:18.184466: initialize_chrome_drive2024-09-04 21:48:18.185799:getExsitUSer() 
+ f<model.User.User object at 0x10be6a9f0>2024-09-04 21:48:50.680952: initialize_chrome_drive2024-09-04 21:48:50.681128:getExsitUSer() 
+ f<model.User.User object at 0x10be6a9f0>2024-09-04 21:49:25.339717: initialize_chrome_drive2024-09-04 21:49:25.339908:getExsitUSer() 
+ f<model.User.User object at 0x10be6a9f0>

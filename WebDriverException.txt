@@ -1,0 +1,90 @@
+2024-09-04 20:01:32.538857: Exception in webDriver: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+2024-09-04 20:01:32.538857: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:04:10.905548: Exception in webDriver: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+2024-09-04 20:04:10.905548: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:05:00.414982: Exception in webDriver: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+2024-09-04 20:05:00.414982: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:05:40.376071: Exception in webDriver: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+2024-09-04 20:05:40.376071: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 106, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+
+2024-09-04 20:07:07.074717: Exception in webDriver: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+2024-09-04 20:07:07.074717: Traceback (most recent call last):
+  File "/Users/rehan/Documents/python/teacherassitentApi/utils/web_driver.py", line 108, in initialize_chrome_driver
+    driver = webdriver.Remote(command_executor=hub_url,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 286, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 378, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "/Users/rehan/Documents/python/teacherassitentApi/.venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Browser extensions are not supported in headless mode, please remove headless capabilities.
+
+

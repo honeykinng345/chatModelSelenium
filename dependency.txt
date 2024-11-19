@@ -1,0 +1,6 @@
+flask
+selenium
+fake-useragent
+requests
+webdriver-manager
+selenium-wire

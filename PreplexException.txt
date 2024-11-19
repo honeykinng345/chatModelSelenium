@@ -1,0 +1,796 @@
+2024-08-23 20:14:18.714216: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001069f58b8 chromedriver + 5179576
+1   chromedriver                        0x00000001069ed2ea chromedriver + 5145322
+2   chromedriver                        0x00000001065642b0 chromedriver + 389808
+3   chromedriver                        0x00000001065b03e1 chromedriver + 701409
+4   chromedriver                        0x00000001065b0691 chromedriver + 702097
+5   chromedriver                        0x00000001065f2464 chromedriver + 971876
+6   chromedriver                        0x00000001065d27dd chromedriver + 841693
+7   chromedriver                        0x00000001065efb9b chromedriver + 961435
+8   chromedriver                        0x00000001065d2553 chromedriver + 841043
+9   chromedriver                        0x00000001065a37f6 chromedriver + 649206
+10  chromedriver                        0x00000001065a405e chromedriver + 651358
+11  chromedriver                        0x00000001069b8b20 chromedriver + 4930336
+12  chromedriver                        0x00000001069bda36 chromedriver + 4950582
+13  chromedriver                        0x00000001069be105 chromedriver + 4952325
+14  chromedriver                        0x000000010699aee9 chromedriver + 4808425
+15  chromedriver                        0x00000001069be3f9 chromedriver + 4953081
+16  chromedriver                        0x000000010698c844 chromedriver + 4749380
+17  chromedriver                        0x00000001069dd5c8 chromedriver + 5080520
+18  chromedriver                        0x00000001069dd787 chromedriver + 5080967
+19  chromedriver                        0x00000001069ecece chromedriver + 5144270
+20  libsystem_pthread.dylib             0x00007ff8072f2202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8072edbab thread_start + 15
+2024-08-23 20:21:05.173512: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000108be78b8 chromedriver + 5179576
+1   chromedriver                        0x0000000108bdf2ea chromedriver + 5145322
+2   chromedriver                        0x00000001087562b0 chromedriver + 389808
+3   chromedriver                        0x00000001087a23e1 chromedriver + 701409
+4   chromedriver                        0x00000001087a2691 chromedriver + 702097
+5   chromedriver                        0x00000001087e4464 chromedriver + 971876
+6   chromedriver                        0x00000001087c47dd chromedriver + 841693
+7   chromedriver                        0x00000001087e1b9b chromedriver + 961435
+8   chromedriver                        0x00000001087c4553 chromedriver + 841043
+9   chromedriver                        0x00000001087957f6 chromedriver + 649206
+10  chromedriver                        0x000000010879605e chromedriver + 651358
+11  chromedriver                        0x0000000108baab20 chromedriver + 4930336
+12  chromedriver                        0x0000000108bafa36 chromedriver + 4950582
+13  chromedriver                        0x0000000108bb0105 chromedriver + 4952325
+14  chromedriver                        0x0000000108b8cee9 chromedriver + 4808425
+15  chromedriver                        0x0000000108bb03f9 chromedriver + 4953081
+16  chromedriver                        0x0000000108b7e844 chromedriver + 4749380
+17  chromedriver                        0x0000000108bcf5c8 chromedriver + 5080520
+18  chromedriver                        0x0000000108bcf787 chromedriver + 5080967
+19  chromedriver                        0x0000000108bdeece chromedriver + 5144270
+20  libsystem_pthread.dylib             0x00007ff8072f2202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8072edbab thread_start + 15
+2024-08-24 18:23:49.742496: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001036d58b8 chromedriver + 5179576
+1   chromedriver                        0x00000001036cd2ea chromedriver + 5145322
+2   chromedriver                        0x00000001032442b0 chromedriver + 389808
+3   chromedriver                        0x00000001032903e1 chromedriver + 701409
+4   chromedriver                        0x0000000103290691 chromedriver + 702097
+5   chromedriver                        0x00000001032d2464 chromedriver + 971876
+6   chromedriver                        0x00000001032b27dd chromedriver + 841693
+7   chromedriver                        0x00000001032cfb9b chromedriver + 961435
+8   chromedriver                        0x00000001032b2553 chromedriver + 841043
+9   chromedriver                        0x00000001032837f6 chromedriver + 649206
+10  chromedriver                        0x000000010328405e chromedriver + 651358
+11  chromedriver                        0x0000000103698b20 chromedriver + 4930336
+12  chromedriver                        0x000000010369da36 chromedriver + 4950582
+13  chromedriver                        0x000000010369e105 chromedriver + 4952325
+14  chromedriver                        0x000000010367aee9 chromedriver + 4808425
+15  chromedriver                        0x000000010369e3f9 chromedriver + 4953081
+16  chromedriver                        0x000000010366c844 chromedriver + 4749380
+17  chromedriver                        0x00000001036bd5c8 chromedriver + 5080520
+18  chromedriver                        0x00000001036bd787 chromedriver + 5080967
+19  chromedriver                        0x00000001036ccece chromedriver + 5144270
+20  libsystem_pthread.dylib             0x00007ff8084a6202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8084a1bab thread_start + 15
+2024-08-25 20:49:42.476875: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001025478b8 chromedriver + 5179576
+1   chromedriver                        0x000000010253f2ea chromedriver + 5145322
+2   chromedriver                        0x00000001020b62b0 chromedriver + 389808
+3   chromedriver                        0x00000001021023e1 chromedriver + 701409
+4   chromedriver                        0x0000000102102691 chromedriver + 702097
+5   chromedriver                        0x0000000102144464 chromedriver + 971876
+6   chromedriver                        0x00000001021247dd chromedriver + 841693
+7   chromedriver                        0x0000000102141b9b chromedriver + 961435
+8   chromedriver                        0x0000000102124553 chromedriver + 841043
+9   chromedriver                        0x00000001020f57f6 chromedriver + 649206
+10  chromedriver                        0x00000001020f605e chromedriver + 651358
+11  chromedriver                        0x000000010250ab20 chromedriver + 4930336
+12  chromedriver                        0x000000010250fa36 chromedriver + 4950582
+13  chromedriver                        0x0000000102510105 chromedriver + 4952325
+14  chromedriver                        0x00000001024ecee9 chromedriver + 4808425
+15  chromedriver                        0x00000001025103f9 chromedriver + 4953081
+16  chromedriver                        0x00000001024de844 chromedriver + 4749380
+17  chromedriver                        0x000000010252f5c8 chromedriver + 5080520
+18  chromedriver                        0x000000010252f787 chromedriver + 5080967
+19  chromedriver                        0x000000010253eece chromedriver + 5144270
+20  libsystem_pthread.dylib             0x00007ff8084a6202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8084a1bab thread_start + 15
+2024-08-26 01:17:07.459016: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010767f8b8 chromedriver + 5179576
+1   chromedriver                        0x00000001076772ea chromedriver + 5145322
+2   chromedriver                        0x00000001071ee2b0 chromedriver + 389808
+3   chromedriver                        0x000000010723a3e1 chromedriver + 701409
+4   chromedriver                        0x000000010723a691 chromedriver + 702097
+5   chromedriver                        0x000000010727c464 chromedriver + 971876
+6   chromedriver                        0x000000010725c7dd chromedriver + 841693
+7   chromedriver                        0x0000000107279b9b chromedriver + 961435
+8   chromedriver                        0x000000010725c553 chromedriver + 841043
+9   chromedriver                        0x000000010722d7f6 chromedriver + 649206
+10  chromedriver                        0x000000010722e05e chromedriver + 651358
+11  chromedriver                        0x0000000107642b20 chromedriver + 4930336
+12  chromedriver                        0x0000000107647a36 chromedriver + 4950582
+13  chromedriver                        0x0000000107648105 chromedriver + 4952325
+14  chromedriver                        0x0000000107624ee9 chromedriver + 4808425
+15  chromedriver                        0x00000001076483f9 chromedriver + 4953081
+16  chromedriver                        0x0000000107616844 chromedriver + 4749380
+17  chromedriver                        0x00000001076675c8 chromedriver + 5080520
+18  chromedriver                        0x0000000107667787 chromedriver + 5080967
+19  chromedriver                        0x0000000107676ece chromedriver + 5144270
+20  libsystem_pthread.dylib             0x00007ff8084a6202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8084a1bab thread_start + 15
+2024-08-26 01:23:40.692502: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010e7cc8b8 chromedriver + 5179576
+1   chromedriver                        0x000000010e7c42ea chromedriver + 5145322
+2   chromedriver                        0x000000010e33b2b0 chromedriver + 389808
+3   chromedriver                        0x000000010e3873e1 chromedriver + 701409
+4   chromedriver                        0x000000010e387691 chromedriver + 702097
+5   chromedriver                        0x000000010e3c9464 chromedriver + 971876
+6   chromedriver                        0x000000010e3a97dd chromedriver + 841693
+7   chromedriver                        0x000000010e3c6b9b chromedriver + 961435
+8   chromedriver                        0x000000010e3a9553 chromedriver + 841043
+9   chromedriver                        0x000000010e37a7f6 chromedriver + 649206
+10  chromedriver                        0x000000010e37b05e chromedriver + 651358
+11  chromedriver                        0x000000010e78fb20 chromedriver + 4930336
+12  chromedriver                        0x000000010e794a36 chromedriver + 4950582
+13  chromedriver                        0x000000010e795105 chromedriver + 4952325
+14  chromedriver                        0x000000010e771ee9 chromedriver + 4808425
+15  chromedriver                        0x000000010e7953f9 chromedriver + 4953081
+16  chromedriver                        0x000000010e763844 chromedriver + 4749380
+17  chromedriver                        0x000000010e7b45c8 chromedriver + 5080520
+18  chromedriver                        0x000000010e7b4787 chromedriver + 5080967
+19  chromedriver                        0x000000010e7c3ece chromedriver + 5144270
+20  libsystem_pthread.dylib             0x00007ff8084a6202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8084a1bab thread_start + 15
+2024-08-26 01:24:24.309569: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000108ffa8b8 chromedriver + 5179576
+1   chromedriver                        0x0000000108ff22ea chromedriver + 5145322
+2   chromedriver                        0x0000000108b692b0 chromedriver + 389808
+3   chromedriver                        0x0000000108bb53e1 chromedriver + 701409
+4   chromedriver                        0x0000000108bb5691 chromedriver + 702097
+5   chromedriver                        0x0000000108bf7464 chromedriver + 971876
+6   chromedriver                        0x0000000108bd77dd chromedriver + 841693
+7   chromedriver                        0x0000000108bf4b9b chromedriver + 961435
+8   chromedriver                        0x0000000108bd7553 chromedriver + 841043
+9   chromedriver                        0x0000000108ba87f6 chromedriver + 649206
+10  chromedriver                        0x0000000108ba905e chromedriver + 651358
+11  chromedriver                        0x0000000108fbdb20 chromedriver + 4930336
+12  chromedriver                        0x0000000108fc2a36 chromedriver + 4950582
+13  chromedriver                        0x0000000108fc3105 chromedriver + 4952325
+14  chromedriver                        0x0000000108f9fee9 chromedriver + 4808425
+15  chromedriver                        0x0000000108fc33f9 chromedriver + 4953081
+16  chromedriver                        0x0000000108f91844 chromedriver + 4749380
+17  chromedriver                        0x0000000108fe25c8 chromedriver + 5080520
+18  chromedriver                        0x0000000108fe2787 chromedriver + 5080967
+19  chromedriver                        0x0000000108ff1ece chromedriver + 5144270
+20  libsystem_pthread.dylib             0x00007ff8084a6202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8084a1bab thread_start + 15
+2024-09-01 17:09:04.471480: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010f0fe238 chromedriver + 5095992
+1   chromedriver                        0x000000010f0f5a6a chromedriver + 5061226
+2   chromedriver                        0x000000010ec80fd0 chromedriver + 389072
+3   chromedriver                        0x000000010eccd9ab chromedriver + 702891
+4   chromedriver                        0x000000010eccda81 chromedriver + 703105
+5   chromedriver                        0x000000010ed11cd4 chromedriver + 982228
+6   chromedriver                        0x000000010ecf1f1d chromedriver + 851741
+7   chromedriver                        0x000000010ed0f250 chromedriver + 971344
+8   chromedriver                        0x000000010ecf1c93 chromedriver + 851091
+9   chromedriver                        0x000000010ecc0c79 chromedriver + 650361
+10  chromedriver                        0x000000010ecc149e chromedriver + 652446
+11  chromedriver                        0x000000010f0c0fb0 chromedriver + 4845488
+12  chromedriver                        0x000000010f0c5ec8 chromedriver + 4865736
+13  chromedriver                        0x000000010f0c6595 chromedriver + 4867477
+14  chromedriver                        0x000000010f0a3be9 chromedriver + 4725737
+15  chromedriver                        0x000000010f0c6889 chromedriver + 4868233
+16  chromedriver                        0x000000010f095b04 chromedriver + 4668164
+17  chromedriver                        0x000000010f0e5d68 chromedriver + 4996456
+18  chromedriver                        0x000000010f0e5f67 chromedriver + 4996967
+19  chromedriver                        0x000000010f0f566e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-01 17:12:26.936039: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001050b0238 chromedriver + 5095992
+1   chromedriver                        0x00000001050a7a6a chromedriver + 5061226
+2   chromedriver                        0x0000000104c32fd0 chromedriver + 389072
+3   chromedriver                        0x0000000104c7f9ab chromedriver + 702891
+4   chromedriver                        0x0000000104c7fa81 chromedriver + 703105
+5   chromedriver                        0x0000000104cc3cd4 chromedriver + 982228
+6   chromedriver                        0x0000000104ca3f1d chromedriver + 851741
+7   chromedriver                        0x0000000104cc1250 chromedriver + 971344
+8   chromedriver                        0x0000000104ca3c93 chromedriver + 851091
+9   chromedriver                        0x0000000104c72c79 chromedriver + 650361
+10  chromedriver                        0x0000000104c7349e chromedriver + 652446
+11  chromedriver                        0x0000000105072fb0 chromedriver + 4845488
+12  chromedriver                        0x0000000105077ec8 chromedriver + 4865736
+13  chromedriver                        0x0000000105078595 chromedriver + 4867477
+14  chromedriver                        0x0000000105055be9 chromedriver + 4725737
+15  chromedriver                        0x0000000105078889 chromedriver + 4868233
+16  chromedriver                        0x0000000105047b04 chromedriver + 4668164
+17  chromedriver                        0x0000000105097d68 chromedriver + 4996456
+18  chromedriver                        0x0000000105097f67 chromedriver + 4996967
+19  chromedriver                        0x00000001050a766e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-01 17:17:40.134487: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102671238 chromedriver + 5095992
+1   chromedriver                        0x0000000102668a6a chromedriver + 5061226
+2   chromedriver                        0x00000001021f3fd0 chromedriver + 389072
+3   chromedriver                        0x00000001022409ab chromedriver + 702891
+4   chromedriver                        0x0000000102240a81 chromedriver + 703105
+5   chromedriver                        0x0000000102284cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102264f1d chromedriver + 851741
+7   chromedriver                        0x0000000102282250 chromedriver + 971344
+8   chromedriver                        0x0000000102264c93 chromedriver + 851091
+9   chromedriver                        0x0000000102233c79 chromedriver + 650361
+10  chromedriver                        0x000000010223449e chromedriver + 652446
+11  chromedriver                        0x0000000102633fb0 chromedriver + 4845488
+12  chromedriver                        0x0000000102638ec8 chromedriver + 4865736
+13  chromedriver                        0x0000000102639595 chromedriver + 4867477
+14  chromedriver                        0x0000000102616be9 chromedriver + 4725737
+15  chromedriver                        0x0000000102639889 chromedriver + 4868233
+16  chromedriver                        0x0000000102608b04 chromedriver + 4668164
+17  chromedriver                        0x0000000102658d68 chromedriver + 4996456
+18  chromedriver                        0x0000000102658f67 chromedriver + 4996967
+19  chromedriver                        0x000000010266866e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-01 17:21:59.408307: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000101b3e238 chromedriver + 5095992
+1   chromedriver                        0x0000000101b35a6a chromedriver + 5061226
+2   chromedriver                        0x00000001016c0fd0 chromedriver + 389072
+3   chromedriver                        0x000000010170d9ab chromedriver + 702891
+4   chromedriver                        0x000000010170da81 chromedriver + 703105
+5   chromedriver                        0x0000000101751cd4 chromedriver + 982228
+6   chromedriver                        0x0000000101731f1d chromedriver + 851741
+7   chromedriver                        0x000000010174f250 chromedriver + 971344
+8   chromedriver                        0x0000000101731c93 chromedriver + 851091
+9   chromedriver                        0x0000000101700c79 chromedriver + 650361
+10  chromedriver                        0x000000010170149e chromedriver + 652446
+11  chromedriver                        0x0000000101b00fb0 chromedriver + 4845488
+12  chromedriver                        0x0000000101b05ec8 chromedriver + 4865736
+13  chromedriver                        0x0000000101b06595 chromedriver + 4867477
+14  chromedriver                        0x0000000101ae3be9 chromedriver + 4725737
+15  chromedriver                        0x0000000101b06889 chromedriver + 4868233
+16  chromedriver                        0x0000000101ad5b04 chromedriver + 4668164
+17  chromedriver                        0x0000000101b25d68 chromedriver + 4996456
+18  chromedriver                        0x0000000101b25f67 chromedriver + 4996967
+19  chromedriver                        0x0000000101b3566e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 03:10:56.405762: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x000000010651b238 chromedriver + 5095992
+1   chromedriver                        0x0000000106512a6a chromedriver + 5061226
+2   chromedriver                        0x000000010609dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001060ea9ab chromedriver + 702891
+4   chromedriver                        0x00000001060eaa81 chromedriver + 703105
+5   chromedriver                        0x000000010612ecd4 chromedriver + 982228
+6   chromedriver                        0x000000010610ef1d chromedriver + 851741
+7   chromedriver                        0x000000010612c250 chromedriver + 971344
+8   chromedriver                        0x000000010610ec93 chromedriver + 851091
+9   chromedriver                        0x00000001060ddc79 chromedriver + 650361
+10  chromedriver                        0x00000001060de49e chromedriver + 652446
+11  chromedriver                        0x00000001064ddfb0 chromedriver + 4845488
+12  chromedriver                        0x00000001064e2ec8 chromedriver + 4865736
+13  chromedriver                        0x00000001064e3595 chromedriver + 4867477
+14  chromedriver                        0x00000001064c0be9 chromedriver + 4725737
+15  chromedriver                        0x00000001064e3889 chromedriver + 4868233
+16  chromedriver                        0x00000001064b2b04 chromedriver + 4668164
+17  chromedriver                        0x0000000106502d68 chromedriver + 4996456
+18  chromedriver                        0x0000000106502f67 chromedriver + 4996967
+19  chromedriver                        0x000000010651266e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 03:30:38.994235: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 03:32:07.299437: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 03:34:31.161994: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 03:49:40.835241: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 03:50:17.300963: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 03:52:02.397889: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 04:17:17.751053: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 04:23:21.009078: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 04:28:15.117004: Exception in scrape_amazon_webpage(): 
+Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.takeScreenshot@chrome://remote/content/marionette/driver.sys.mjs:2492:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-09-02 04:52:03.876137: Exception in scrape_amazon_webpage(): 
+Message: Unable to locate element: .overflow-auto
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+2024-09-02 04:53:40.866546: Exception in scrape_amazon_webpage(): 
+Message: Element <button class="bg-super dark:bg-superDark dark:text-backgroundDark text-white hover:opacity-80 font-sans focus:outline-none outline-none outline-transparent transition duration-300 ease-in-out font-sans  select-none items-center relative group/button  justify-center text-center items-center rounded-full cursor-point active:scale-95 origin-center whitespace-nowrap inline-flex text-sm aspect-square h-8" type="button"> is not clickable at point (1041,335) because another element <div class="flex justify-center pb-md"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:337:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:177:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:205:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:85:31
+2024-09-02 04:54:45.504336: Exception in scrape_amazon_webpage(): 
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x0000000108335238 chromedriver + 5095992
+1   chromedriver                        0x000000010832ca6a chromedriver + 5061226
+2   chromedriver                        0x0000000107eb7fd0 chromedriver + 389072
+3   chromedriver                        0x0000000107e8f3ef chromedriver + 222191
+4   chromedriver                        0x0000000107f30fcd chromedriver + 884685
+5   chromedriver                        0x0000000107f45c49 chromedriver + 969801
+6   chromedriver                        0x0000000107f28c93 chromedriver + 851091
+7   chromedriver                        0x0000000107ef7c79 chromedriver + 650361
+8   chromedriver                        0x0000000107ef849e chromedriver + 652446
+9   chromedriver                        0x00000001082f7fb0 chromedriver + 4845488
+10  chromedriver                        0x00000001082fcec8 chromedriver + 4865736
+11  chromedriver                        0x00000001082fd595 chromedriver + 4867477
+12  chromedriver                        0x00000001082dabe9 chromedriver + 4725737
+13  chromedriver                        0x00000001082fd889 chromedriver + 4868233
+14  chromedriver                        0x00000001082ccb04 chromedriver + 4668164
+15  chromedriver                        0x000000010831cd68 chromedriver + 4996456
+16  chromedriver                        0x000000010831cf67 chromedriver + 4996967
+17  chromedriver                        0x000000010832c66e chromedriver + 5060206
+18  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 04:57:20.995253: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x0000000105be2238 chromedriver + 5095992
+1   chromedriver                        0x0000000105bd9a6a chromedriver + 5061226
+2   chromedriver                        0x0000000105764fd0 chromedriver + 389072
+3   chromedriver                        0x00000001057b19ab chromedriver + 702891
+4   chromedriver                        0x00000001057b1a81 chromedriver + 703105
+5   chromedriver                        0x00000001057f5cd4 chromedriver + 982228
+6   chromedriver                        0x00000001057d5f1d chromedriver + 851741
+7   chromedriver                        0x00000001057f3250 chromedriver + 971344
+8   chromedriver                        0x00000001057d5c93 chromedriver + 851091
+9   chromedriver                        0x00000001057a4c79 chromedriver + 650361
+10  chromedriver                        0x00000001057a549e chromedriver + 652446
+11  chromedriver                        0x0000000105ba4fb0 chromedriver + 4845488
+12  chromedriver                        0x0000000105ba9ec8 chromedriver + 4865736
+13  chromedriver                        0x0000000105baa595 chromedriver + 4867477
+14  chromedriver                        0x0000000105b87be9 chromedriver + 4725737
+15  chromedriver                        0x0000000105baa889 chromedriver + 4868233
+16  chromedriver                        0x0000000105b79b04 chromedriver + 4668164
+17  chromedriver                        0x0000000105bc9d68 chromedriver + 4996456
+18  chromedriver                        0x0000000105bc9f67 chromedriver + 4996967
+19  chromedriver                        0x0000000105bd966e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:14:03.097785: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x00000001062a5238 chromedriver + 5095992
+1   chromedriver                        0x000000010629ca6a chromedriver + 5061226
+2   chromedriver                        0x0000000105e27fd0 chromedriver + 389072
+3   chromedriver                        0x0000000105e749ab chromedriver + 702891
+4   chromedriver                        0x0000000105e74a81 chromedriver + 703105
+5   chromedriver                        0x0000000105eb8cd4 chromedriver + 982228
+6   chromedriver                        0x0000000105e98f1d chromedriver + 851741
+7   chromedriver                        0x0000000105eb6250 chromedriver + 971344
+8   chromedriver                        0x0000000105e98c93 chromedriver + 851091
+9   chromedriver                        0x0000000105e67c79 chromedriver + 650361
+10  chromedriver                        0x0000000105e6849e chromedriver + 652446
+11  chromedriver                        0x0000000106267fb0 chromedriver + 4845488
+12  chromedriver                        0x000000010626cec8 chromedriver + 4865736
+13  chromedriver                        0x000000010626d595 chromedriver + 4867477
+14  chromedriver                        0x000000010624abe9 chromedriver + 4725737
+15  chromedriver                        0x000000010626d889 chromedriver + 4868233
+16  chromedriver                        0x000000010623cb04 chromedriver + 4668164
+17  chromedriver                        0x000000010628cd68 chromedriver + 4996456
+18  chromedriver                        0x000000010628cf67 chromedriver + 4996967
+19  chromedriver                        0x000000010629c66e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:17:19.023962: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x000000010cff9238 chromedriver + 5095992
+1   chromedriver                        0x000000010cff0a6a chromedriver + 5061226
+2   chromedriver                        0x000000010cb7bfd0 chromedriver + 389072
+3   chromedriver                        0x000000010cbc89ab chromedriver + 702891
+4   chromedriver                        0x000000010cbc8a81 chromedriver + 703105
+5   chromedriver                        0x000000010cc0ccd4 chromedriver + 982228
+6   chromedriver                        0x000000010cbecf1d chromedriver + 851741
+7   chromedriver                        0x000000010cc0a250 chromedriver + 971344
+8   chromedriver                        0x000000010cbecc93 chromedriver + 851091
+9   chromedriver                        0x000000010cbbbc79 chromedriver + 650361
+10  chromedriver                        0x000000010cbbc49e chromedriver + 652446
+11  chromedriver                        0x000000010cfbbfb0 chromedriver + 4845488
+12  chromedriver                        0x000000010cfc0ec8 chromedriver + 4865736
+13  chromedriver                        0x000000010cfc1595 chromedriver + 4867477
+14  chromedriver                        0x000000010cf9ebe9 chromedriver + 4725737
+15  chromedriver                        0x000000010cfc1889 chromedriver + 4868233
+16  chromedriver                        0x000000010cf90b04 chromedriver + 4668164
+17  chromedriver                        0x000000010cfe0d68 chromedriver + 4996456
+18  chromedriver                        0x000000010cfe0f67 chromedriver + 4996967
+19  chromedriver                        0x000000010cff066e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:18:01.394024: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x000000010919b238 chromedriver + 5095992
+1   chromedriver                        0x0000000109192a6a chromedriver + 5061226
+2   chromedriver                        0x0000000108d1dfd0 chromedriver + 389072
+3   chromedriver                        0x0000000108d6a9ab chromedriver + 702891
+4   chromedriver                        0x0000000108d6aa81 chromedriver + 703105
+5   chromedriver                        0x0000000108daecd4 chromedriver + 982228
+6   chromedriver                        0x0000000108d8ef1d chromedriver + 851741
+7   chromedriver                        0x0000000108dac250 chromedriver + 971344
+8   chromedriver                        0x0000000108d8ec93 chromedriver + 851091
+9   chromedriver                        0x0000000108d5dc79 chromedriver + 650361
+10  chromedriver                        0x0000000108d5e49e chromedriver + 652446
+11  chromedriver                        0x000000010915dfb0 chromedriver + 4845488
+12  chromedriver                        0x0000000109162ec8 chromedriver + 4865736
+13  chromedriver                        0x0000000109163595 chromedriver + 4867477
+14  chromedriver                        0x0000000109140be9 chromedriver + 4725737
+15  chromedriver                        0x0000000109163889 chromedriver + 4868233
+16  chromedriver                        0x0000000109132b04 chromedriver + 4668164
+17  chromedriver                        0x0000000109182d68 chromedriver + 4996456
+18  chromedriver                        0x0000000109182f67 chromedriver + 4996967
+19  chromedriver                        0x000000010919266e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:19:03.362651: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x00000001004ec238 chromedriver + 5095992
+1   chromedriver                        0x00000001004e3a6a chromedriver + 5061226
+2   chromedriver                        0x000000010006efd0 chromedriver + 389072
+3   chromedriver                        0x00000001000bb9ab chromedriver + 702891
+4   chromedriver                        0x00000001000bba81 chromedriver + 703105
+5   chromedriver                        0x00000001000ffcd4 chromedriver + 982228
+6   chromedriver                        0x00000001000dff1d chromedriver + 851741
+7   chromedriver                        0x00000001000fd250 chromedriver + 971344
+8   chromedriver                        0x00000001000dfc93 chromedriver + 851091
+9   chromedriver                        0x00000001000aec79 chromedriver + 650361
+10  chromedriver                        0x00000001000af49e chromedriver + 652446
+11  chromedriver                        0x00000001004aefb0 chromedriver + 4845488
+12  chromedriver                        0x00000001004b3ec8 chromedriver + 4865736
+13  chromedriver                        0x00000001004b4595 chromedriver + 4867477
+14  chromedriver                        0x0000000100491be9 chromedriver + 4725737
+15  chromedriver                        0x00000001004b4889 chromedriver + 4868233
+16  chromedriver                        0x0000000100483b04 chromedriver + 4668164
+17  chromedriver                        0x00000001004d3d68 chromedriver + 4996456
+18  chromedriver                        0x00000001004d3f67 chromedriver + 4996967
+19  chromedriver                        0x00000001004e366e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:20:13.973166: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x0000000102479238 chromedriver + 5095992
+1   chromedriver                        0x0000000102470a6a chromedriver + 5061226
+2   chromedriver                        0x0000000101ffbfd0 chromedriver + 389072
+3   chromedriver                        0x00000001020489ab chromedriver + 702891
+4   chromedriver                        0x0000000102048a81 chromedriver + 703105
+5   chromedriver                        0x000000010208ccd4 chromedriver + 982228
+6   chromedriver                        0x000000010206cf1d chromedriver + 851741
+7   chromedriver                        0x000000010208a250 chromedriver + 971344
+8   chromedriver                        0x000000010206cc93 chromedriver + 851091
+9   chromedriver                        0x000000010203bc79 chromedriver + 650361
+10  chromedriver                        0x000000010203c49e chromedriver + 652446
+11  chromedriver                        0x000000010243bfb0 chromedriver + 4845488
+12  chromedriver                        0x0000000102440ec8 chromedriver + 4865736
+13  chromedriver                        0x0000000102441595 chromedriver + 4867477
+14  chromedriver                        0x000000010241ebe9 chromedriver + 4725737
+15  chromedriver                        0x0000000102441889 chromedriver + 4868233
+16  chromedriver                        0x0000000102410b04 chromedriver + 4668164
+17  chromedriver                        0x0000000102460d68 chromedriver + 4996456
+18  chromedriver                        0x0000000102460f67 chromedriver + 4996967
+19  chromedriver                        0x000000010247066e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:20:39.580330: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x0000000102724238 chromedriver + 5095992
+1   chromedriver                        0x000000010271ba6a chromedriver + 5061226
+2   chromedriver                        0x00000001022a6fd0 chromedriver + 389072
+3   chromedriver                        0x00000001022f39ab chromedriver + 702891
+4   chromedriver                        0x00000001022f3a81 chromedriver + 703105
+5   chromedriver                        0x0000000102337cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102317f1d chromedriver + 851741
+7   chromedriver                        0x0000000102335250 chromedriver + 971344
+8   chromedriver                        0x0000000102317c93 chromedriver + 851091
+9   chromedriver                        0x00000001022e6c79 chromedriver + 650361
+10  chromedriver                        0x00000001022e749e chromedriver + 652446
+11  chromedriver                        0x00000001026e6fb0 chromedriver + 4845488
+12  chromedriver                        0x00000001026ebec8 chromedriver + 4865736
+13  chromedriver                        0x00000001026ec595 chromedriver + 4867477
+14  chromedriver                        0x00000001026c9be9 chromedriver + 4725737
+15  chromedriver                        0x00000001026ec889 chromedriver + 4868233
+16  chromedriver                        0x00000001026bbb04 chromedriver + 4668164
+17  chromedriver                        0x000000010270bd68 chromedriver + 4996456
+18  chromedriver                        0x000000010270bf67 chromedriver + 4996967
+19  chromedriver                        0x000000010271b66e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:41:01.671281: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x0000000102036238 chromedriver + 5095992
+1   chromedriver                        0x000000010202da6a chromedriver + 5061226
+2   chromedriver                        0x0000000101bb8fd0 chromedriver + 389072
+3   chromedriver                        0x0000000101c059ab chromedriver + 702891
+4   chromedriver                        0x0000000101c05a81 chromedriver + 703105
+5   chromedriver                        0x0000000101c49cd4 chromedriver + 982228
+6   chromedriver                        0x0000000101c29f1d chromedriver + 851741
+7   chromedriver                        0x0000000101c47250 chromedriver + 971344
+8   chromedriver                        0x0000000101c29c93 chromedriver + 851091
+9   chromedriver                        0x0000000101bf8c79 chromedriver + 650361
+10  chromedriver                        0x0000000101bf949e chromedriver + 652446
+11  chromedriver                        0x0000000101ff8fb0 chromedriver + 4845488
+12  chromedriver                        0x0000000101ffdec8 chromedriver + 4865736
+13  chromedriver                        0x0000000101ffe595 chromedriver + 4867477
+14  chromedriver                        0x0000000101fdbbe9 chromedriver + 4725737
+15  chromedriver                        0x0000000101ffe889 chromedriver + 4868233
+16  chromedriver                        0x0000000101fcdb04 chromedriver + 4668164
+17  chromedriver                        0x000000010201dd68 chromedriver + 4996456
+18  chromedriver                        0x000000010201df67 chromedriver + 4996967
+19  chromedriver                        0x000000010202d66e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-02 05:43:08.212629: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.86)
+Stacktrace:
+0   chromedriver                        0x0000000104d2a238 chromedriver + 5095992
+1   chromedriver                        0x0000000104d21a6a chromedriver + 5061226
+2   chromedriver                        0x00000001048acfd0 chromedriver + 389072
+3   chromedriver                        0x00000001048f99ab chromedriver + 702891
+4   chromedriver                        0x00000001048f9a81 chromedriver + 703105
+5   chromedriver                        0x000000010493dcd4 chromedriver + 982228
+6   chromedriver                        0x000000010491df1d chromedriver + 851741
+7   chromedriver                        0x000000010493b250 chromedriver + 971344
+8   chromedriver                        0x000000010491dc93 chromedriver + 851091
+9   chromedriver                        0x00000001048ecc79 chromedriver + 650361
+10  chromedriver                        0x00000001048ed49e chromedriver + 652446
+11  chromedriver                        0x0000000104cecfb0 chromedriver + 4845488
+12  chromedriver                        0x0000000104cf1ec8 chromedriver + 4865736
+13  chromedriver                        0x0000000104cf2595 chromedriver + 4867477
+14  chromedriver                        0x0000000104ccfbe9 chromedriver + 4725737
+15  chromedriver                        0x0000000104cf2889 chromedriver + 4868233
+16  chromedriver                        0x0000000104cc1b04 chromedriver + 4668164
+17  chromedriver                        0x0000000104d11d68 chromedriver + 4996456
+18  chromedriver                        0x0000000104d11f67 chromedriver + 4996967
+19  chromedriver                        0x0000000104d2166e chromedriver + 5060206
+20  libsystem_pthread.dylib             0x00007ff811bbe202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff811bb9bab thread_start + 15
+2024-09-03 16:27:29.349496: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.114)
+Stacktrace:
+0   chromedriver                        0x000000010d20f248 chromedriver + 5096008
+1   chromedriver                        0x000000010d206a7a chromedriver + 5061242
+2   chromedriver                        0x000000010cd91fd0 chromedriver + 389072
+3   chromedriver                        0x000000010cdde9ab chromedriver + 702891
+4   chromedriver                        0x000000010cddea81 chromedriver + 703105
+5   chromedriver                        0x000000010ce22cd4 chromedriver + 982228
+6   chromedriver                        0x000000010ce02f1d chromedriver + 851741
+7   chromedriver                        0x000000010ce20250 chromedriver + 971344
+8   chromedriver                        0x000000010ce02c93 chromedriver + 851091
+9   chromedriver                        0x000000010cdd1c79 chromedriver + 650361
+10  chromedriver                        0x000000010cdd249e chromedriver + 652446
+11  chromedriver                        0x000000010d1d1fc0 chromedriver + 4845504
+12  chromedriver                        0x000000010d1d6ed8 chromedriver + 4865752
+13  chromedriver                        0x000000010d1d75a5 chromedriver + 4867493
+14  chromedriver                        0x000000010d1b4bf9 chromedriver + 4725753
+15  chromedriver                        0x000000010d1d7899 chromedriver + 4868249
+16  chromedriver                        0x000000010d1a6b14 chromedriver + 4668180
+17  chromedriver                        0x000000010d1f6d78 chromedriver + 4996472
+18  chromedriver                        0x000000010d1f6f77 chromedriver + 4996983
+19  chromedriver                        0x000000010d20667e chromedriver + 5060222
+20  libsystem_pthread.dylib             0x00007ff81618c202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816187bab thread_start + 15
+2024-09-03 16:30:17.449475: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=128.0.6613.114)
+Stacktrace:
+0   chromedriver                        0x000000010ea56248 chromedriver + 5096008
+1   chromedriver                        0x000000010ea4da7a chromedriver + 5061242
+2   chromedriver                        0x000000010e5d8fd0 chromedriver + 389072
+3   chromedriver                        0x000000010e6259ab chromedriver + 702891
+4   chromedriver                        0x000000010e625a81 chromedriver + 703105
+5   chromedriver                        0x000000010e669cd4 chromedriver + 982228
+6   chromedriver                        0x000000010e649f1d chromedriver + 851741
+7   chromedriver                        0x000000010e667250 chromedriver + 971344
+8   chromedriver                        0x000000010e649c93 chromedriver + 851091
+9   chromedriver                        0x000000010e618c79 chromedriver + 650361
+10  chromedriver                        0x000000010e61949e chromedriver + 652446
+11  chromedriver                        0x000000010ea18fc0 chromedriver + 4845504
+12  chromedriver                        0x000000010ea1ded8 chromedriver + 4865752
+13  chromedriver                        0x000000010ea1e5a5 chromedriver + 4867493
+14  chromedriver                        0x000000010e9fbbf9 chromedriver + 4725753
+15  chromedriver                        0x000000010ea1e899 chromedriver + 4868249
+16  chromedriver                        0x000000010e9edb14 chromedriver + 4668180
+17  chromedriver                        0x000000010ea3dd78 chromedriver + 4996472
+18  chromedriver                        0x000000010ea3df77 chromedriver + 4996983
+19  chromedriver                        0x000000010ea4d67e chromedriver + 5060222
+20  libsystem_pthread.dylib             0x00007ff81618c202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816187bab thread_start + 15
+2024-09-04 19:51:02.304790: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome=127.0.6533.73)
+Stacktrace:
+	GetHandleVerifier [0x00F2B533+23523]
+	(No symbol) [0x00EEF4A4]
+	(No symbol) [0x00E20A93]
+	(No symbol) [0x00E636BF]
+	(No symbol) [0x00E638FB]
+	(No symbol) [0x00E9F2D2]
+	(No symbol) [0x00E84884]
+	(No symbol) [0x00E9D013]
+	(No symbol) [0x00E845D6]
+	(No symbol) [0x00E583A7]
+	(No symbol) [0x00E58C9D]
+	GetHandleVerifier [0x01038F93+1128003]
+	GetHandleVerifier [0x010427EC+1167004]
+	GetHandleVerifier [0x0103BE94+1140036]
+	GetHandleVerifier [0x00F5617B+198699]
+	(No symbol) [0x00EF79E3]
+	(No symbol) [0x00EF3FA8]
+	(No symbol) [0x00EF4147]
+	(No symbol) [0x00EEBF4E]
+	BaseThreadInitThunk [0x753C62C4+36]
+	RtlSubscribeWnfStateChangeNotification [0x778C0FA9+1081]
+	RtlSubscribeWnfStateChangeNotification [0x778C0F74+1028]
+2024-09-04 19:51:45.086244: Exception in scrape_amazon_webpage(): 
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".overflow-auto"}
+  (Session info: chrome-headless-shell=127.0.6533.73)
+Stacktrace:
+	GetHandleVerifier [0x0106B533+23523]
+	(No symbol) [0x0102F4A4]
+	(No symbol) [0x00F60A93]
+	(No symbol) [0x00FA36BF]
+	(No symbol) [0x00FA38FB]
+	(No symbol) [0x00FDF2D2]
+	(No symbol) [0x00FC4884]
+	(No symbol) [0x00FDD013]
+	(No symbol) [0x00FC45D6]
+	(No symbol) [0x00F983A7]
+	(No symbol) [0x00F98C9D]
+	GetHandleVerifier [0x01178F93+1128003]
+	GetHandleVerifier [0x011827EC+1167004]
+	GetHandleVerifier [0x0117BE94+1140036]
+	GetHandleVerifier [0x0109617B+198699]
+	(No symbol) [0x010379E3]
+	(No symbol) [0x01033FA8]
+	(No symbol) [0x01034147]
+	(No symbol) [0x0102BF4E]
+	BaseThreadInitThunk [0x74E962C4+36]
+	RtlSubscribeWnfStateChangeNotification [0x77E20FA9+1081]
+	RtlSubscribeWnfStateChangeNotification [0x77E20F74+1028]
+2024-09-04 20:17:42.426871: Exception in scrape_amazon_webpage(): 
+Message: Unable to find the session info for particular sessionId 2fdf2f9e4f4b05d425c5418552d3634c, maybe session has quit already or timed out.
+2024-09-04 20:18:12.868585: Exception in scrape_amazon_webpage(): 
+Message: Unable to find the session info for particular sessionId 2fdf2f9e4f4b05d425c5418552d3634c, maybe session has quit already or timed out.
+2024-09-04 21:49:32.326467: Exception in scrape_amazon_webpage(): 
+Message: element click intercepted: Element <button aria-label="Submit" type="button" class="bg-super dark:bg-superDark dark:text-backgroundDark text-white hover:opacity-80 font-sans focus:outline-none outline-none outline-transparent transition duration-300 ease-in-out font-sans  select-none items-center relative group/button  justify-center text-center items-center rounded-full cursor-point active:scale-95 origin-center whitespace-nowrap inline-flex text-sm aspect-square h-8">...</button> is not clickable at point (911, 651). Other element would receive the click: <div class="fixed bottom-0 left-0 right-0 top-0 z-30 flex items-center justify-center">...</div>
+  (Session info: chrome=128.0.6613.115)
+Stacktrace:
+0   chromedriver                        0x000000010084c248 chromedriver + 5096008
+1   chromedriver                        0x0000000100843a7a chromedriver + 5061242
+2   chromedriver                        0x00000001003cefd0 chromedriver + 389072
+3   chromedriver                        0x0000000100422486 chromedriver + 730246
+4   chromedriver                        0x000000010042038d chromedriver + 721805
+5   chromedriver                        0x000000010041de47 chromedriver + 712263
+6   chromedriver                        0x000000010041ccf2 chromedriver + 707826
+7   chromedriver                        0x00000001004108c6 chromedriver + 657606
+8   chromedriver                        0x000000010043fef2 chromedriver + 851698
+9   chromedriver                        0x0000000100410288 chromedriver + 656008
+10  chromedriver                        0x00000001004400ae chromedriver + 852142
+11  chromedriver                        0x000000010045d250 chromedriver + 971344
+12  chromedriver                        0x000000010043fc93 chromedriver + 851091
+13  chromedriver                        0x000000010040ec79 chromedriver + 650361
+14  chromedriver                        0x000000010040f49e chromedriver + 652446
+15  chromedriver                        0x000000010080efc0 chromedriver + 4845504
+16  chromedriver                        0x0000000100813ed8 chromedriver + 4865752
+17  chromedriver                        0x00000001008145a5 chromedriver + 4867493
+18  chromedriver                        0x00000001007f1bf9 chromedriver + 4725753
+19  chromedriver                        0x0000000100814899 chromedriver + 4868249
+20  chromedriver                        0x00000001007e3b14 chromedriver + 4668180
+21  chromedriver                        0x0000000100833d78 chromedriver + 4996472
+22  chromedriver                        0x0000000100833f77 chromedriver + 4996983
+23  chromedriver                        0x000000010084367e chromedriver + 5060222
+24  libsystem_pthread.dylib             0x00007ff81abab202 _pthread_start + 99
+25  libsystem_pthread.dylib             0x00007ff81aba6bab thread_start + 15
