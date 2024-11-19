@@ -16,7 +16,7 @@
 
 ### ******************************************
 
-![Alt text](images/perplexity6.png)
+![Alt text](images/perplexity.png)
 
 ### Handle the login dialog if showing on the screen press the cross button by using code 
 

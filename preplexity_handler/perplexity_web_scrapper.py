@@ -29,7 +29,7 @@ class PerplexityHandler:
             if isVisible:
                 submit_button = webDriver.find_element(By.CSS_SELECTOR, "button[aria-label='Submit']")
                 submit_button.click()
-                webDriver.get_screenshot_as_file("p4.png")
+                webDriver.get_screenshot_as_file("perplexity.png")
             else:
                 time.sleep(12)
                 isVisible = checkButtonIsVisibleOrNot(webDriver, "p3")
@@ -49,7 +49,7 @@ class PerplexityHandler:
             with open("PreplexException.txt", "a") as f:
                 current_datetime = datetime.now()
                 f.write(f"{current_datetime}: Exception in scrape_amazon_webpage(): \n{e}")
-                #webDriver.get_screenshot_as_file("p4.png")
+                #webDriver.get_screenshot_as_file("perplexity.png")
             return JsonResponse.getSuccessResponse("Error Model not Working", "try later", 2, 401)
 
 
